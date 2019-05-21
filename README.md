@@ -1,8 +1,7 @@
 - Web Application to Manage Beverages
 
-## Due 04-24-2019 (11:59pm)
 
-## Author
+
 
 
 
